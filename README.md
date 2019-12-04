@@ -46,3 +46,5 @@ src
     - gallery-details - component responsible for rendering the selected photo details.
 - utils - contain store and service information.      
 
+// to dispaly through herokuapp
+https://cargallerydemo.herokuapp.com/
